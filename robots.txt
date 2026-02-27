@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
+# رابط خريطة الموقع لمساعدة جوجل في العثور عليها سريعاً
 Sitemap: https://alakeel-henna.vercel.app/sitemap.xml
